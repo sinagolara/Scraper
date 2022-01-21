@@ -1,0 +1,7 @@
+venv/
+**/hist/
+recycle_bin/
+listings/
+dealers/
+sales/
+ip_check/
